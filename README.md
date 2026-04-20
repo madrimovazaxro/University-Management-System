@@ -29,4 +29,6 @@ The system models a base class `Person` and two derived classes: `Student` and `
 - Modular structure with header and source files  
 - Input validation and error handling  
 
+‼️Note that: these two cpp and h files should be in the same folder
+
 
